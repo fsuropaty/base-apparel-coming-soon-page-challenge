@@ -162,7 +162,7 @@ button:hover {
     min-width: 10rem;
   }
 
-  picture {
+  .hero-section {
     grid-area: 1 / 2 / 3 / 3;
   }
 
